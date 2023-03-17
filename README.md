@@ -3,6 +3,6 @@ An AI-based mouse controller using hand gesture recognition. This project aims t
 The system will use the webcam to detect hand landmarks, track the movements of the hand, and perform clicking actions based on the positions of these landmarks.
 
 # Dependencies
-  pip install opencv-python
-  pip install mediapipe
-  pip install numpy
+ 1. pip install opencv-python
+ 2. pip install mediapipe
+ 3. pip install numpy
